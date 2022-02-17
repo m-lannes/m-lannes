@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m a PhD student in modeling for atmospheric pollution and transportation 
+- 👯 I’m looking forward to collaborate on MATSim in France, atmospheric pollution models and uncertainty analysis of complex systems
+- ⚡ I enjoy science outreach, in particular about mathematics and climate science
+
 <!--
 **Marjolaine-Lannes/Marjolaine-Lannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
